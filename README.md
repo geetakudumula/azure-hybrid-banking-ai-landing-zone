@@ -1,3 +1,12 @@
+Hybrid Banking Data & AI Platform – Azure CAF Landing Zone
+
+Enterprise-grade financial services modernization showcasing Microsoft Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF) implementation
+
+Show Image
+Show Image
+Show Image
+🏛️ Executive Summary
+
 # Hybrid Banking Data & AI Platform – Azure CAF Landing Zone
 
 **Enterprise-grade financial services modernization showcasing Microsoft Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF) implementation**
